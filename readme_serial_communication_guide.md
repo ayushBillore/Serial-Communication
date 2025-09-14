@@ -120,10 +120,11 @@ void loop() {
 ## Simulation Images
 
 **Before running the program:**
-- Button not pressed → LED OFF
+<img width="718" height="469" alt="image" src="https://github.com/user-attachments/assets/cfd55075-f3b2-4feb-9f87-f93426c74e3d" />
+
 
 **After running the program:**
-- Button pressed → LED ON
+<img width="854" height="479" alt="image" src="https://github.com/user-attachments/assets/85a456b6-aad3-4709-a903-01900c32e689" />
 
 ---
 
@@ -131,3 +132,7 @@ void loop() {
 
 This project demonstrates how to control a device (LED) using **serial communication between two Arduino boards** via the **I2C protocol**. When the push button on the Master Arduino is pressed, it sends a signal to the Slave Arduino, which turns the LED on. This setup can be extended to more complex systems requiring inter-Arduino communication and device control.
 
+---
+## Link
+
+https://www.tinkercad.com/things/4xZK8aVe5Yo-spectacular-juttuli?sharecode=UwJLzR9HQuZ5YKGdDX2AkUsyNsp1BonQdcID2n6eLf4
